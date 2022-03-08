@@ -134,6 +134,10 @@ The following list of players has been already tried out in production environme
 
 docker-tls.sh
 
+## Nginx Https config
+
+NginxHttps.conf
+
 ## Contributions and reporting issues
 
 See more information about [this here](docs/contribution/README.md).
