@@ -130,6 +130,10 @@ The following list of players has been already tried out in production environme
 * Angular - [videogular](http://www.videogular.com/)
 * React - [ReactHLS](https://github.com/foxford/react-hls)
 
+## Docker TLS script
+
+docker-tls.sh
+
 ## Contributions and reporting issues
 
 See more information about [this here](docs/contribution/README.md).
